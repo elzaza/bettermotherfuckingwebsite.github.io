@@ -1,0 +1,18 @@
+#header {
+	color: #850606;
+	text-align: center;
+}
+#container {
+	color: #850606;
+	text-align: center;
+}
+#content {
+	color: #850606;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#nav {
+	color: grey;
+	text-align: justify;
+}
